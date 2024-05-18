@@ -7,4 +7,3 @@ export const Product = ({ name, imgUrl, price }) => {
     </div>
   );
 };
-
